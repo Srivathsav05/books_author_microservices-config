@@ -2,7 +2,7 @@ server:
   port: 8100
 spring:
   application:
-    name: AuthorService
+    name: AuthorManagement
 eureka:
   client:
     service-url:
